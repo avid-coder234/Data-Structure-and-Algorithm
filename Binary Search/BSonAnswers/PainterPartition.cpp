@@ -1,5 +1,5 @@
 int countPainter(vector<int> &boards,int paint){
-    int time = 1    ;
+    int time = 1;
     int paintCount = 0;
     int n = boards.size();
 
